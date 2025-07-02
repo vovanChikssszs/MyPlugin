@@ -1,0 +1,6 @@
+name: CreativeConsume
+version: 1.0
+main: CreativeConsume
+api-version: '1.21'
+author: VashNick
+description: Pozvolyaet tratit' zel'ya v kreative.
